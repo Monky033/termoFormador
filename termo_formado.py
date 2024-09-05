@@ -1,5 +1,3 @@
-import unittest
-
 class MaquinaTermoformado:
     def __init__(self, temperatura_ambiente=20, temperatura_optima=150, material_disponible=1000):
         self.temperatura_actual = temperatura_ambiente
